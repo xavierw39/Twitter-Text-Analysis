@@ -1,4 +1,4 @@
-# Twitter-Text-Analysis
+# Twitter Text Analysis
 ## Background
 On April 14, 2022, Elon Musk, the founder of Tesla and SpaceX, announced his intention to acquire Twitter. The acquisition was settled six months later. In these months, many incidents have happened that reflected the confrontations and negotiations between the social platform and the business magnate.
 
